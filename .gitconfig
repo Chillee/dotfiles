@@ -1,7 +1,0 @@
-[user]
-	name = Alex Ozer
-	email = thealexozer@gmail.com
-[merge]
-	tool = vimdiff
-[push]
-	default = simple
