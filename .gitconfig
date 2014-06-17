@@ -3,3 +3,5 @@
 [user]
 	name = Alex Ozer
 	email = thealexozer@gmail.com
+[push]
+	default = simple
