@@ -5,3 +5,5 @@
 	email = thealexozer@gmail.com
 [push]
 	default = simple
+[github]
+	user = alexozer
