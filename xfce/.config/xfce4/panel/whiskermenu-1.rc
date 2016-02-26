@@ -1,5 +1,5 @@
 favorites=exo-terminal-emulator.desktop,exo-file-manager.desktop,exo-mail-reader.desktop,exo-web-browser.desktop
-recent=chromium.desktop,exo-web-browser.desktop,exo-preferred-applications.desktop,kali-set.desktop,xfce-ui-settings.desktop,kali-sidguesser.desktop,exo-terminal-emulator.desktop,kali-exe2hex.desktop,kali-clang.desktop,iceweasel.desktop
+recent=exo-file-manager.desktop,chromium.desktop,exo-web-browser.desktop,exo-preferred-applications.desktop,kali-set.desktop,xfce-ui-settings.desktop,kali-sidguesser.desktop,exo-terminal-emulator.desktop,kali-exe2hex.desktop,kali-clang.desktop
 button-title=Applications
 button-icon=xfce4-whiskermenu
 button-single-row=false
