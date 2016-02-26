@@ -73,7 +73,7 @@ alt + Return
 	gnome-terminal
 
 alt + w
-	chromium
+	su alex -c chromium
 
 alt + e
 	thunar

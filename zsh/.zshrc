@@ -1,11 +1,13 @@
-export ZSH=/home/alex/.oh-my-zsh
+export ZSH=$HOME/.oh-my-zsh
 export TERM="xterm-256color"
 ZSH_THEME="robbyrussell"
 
 HYPHEN_INSENSITIVE="true"
 COMPLETION_WAITING_DOTS="true"
 
+if [ "$(hostname)" != "t1nf01l" ]; then
 source /usr/share/doc/pkgfile/command-not-found.zsh
+fi
 
 plugins=(git extract gitignore history-substring-search vi-mode last-working-dir)
 

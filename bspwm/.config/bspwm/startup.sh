@@ -1,5 +1,8 @@
 #!/bin/bash
 
+# allow chromium, run as non-root, to access X server
+xhost +
+
 # run gnome-terminal-server in dummy X server
 Xvfb :1 &
 sleep 0.1
